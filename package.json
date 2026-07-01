@@ -1,0 +1,22 @@
+{
+  "name": "xynera-protocol",
+  "version": "2.0.0",
+  "description": "Advanced Discord Selfbot - Xynera Protocol",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "chalk": "^4.1.2",
+    "gradient-string": "^2.0.2",
+    "figlet": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "author": "Xynera Team",
+  "license": "MIT"
+}
